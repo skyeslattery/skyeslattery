@@ -1,12 +1,12 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 align="center">Hey, I'm Skye</h1></summary>
+    <summary><h1 align="center">I'm Skye</h1></summary> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
   </ul>
 </div>
 
 
 <div align="center">
-I'm a student studying Computer Science at Cornell University. I make projects in my free time, including web, app, game, and other software development. I'm looking for summer work, feel free to reach out.
+I'm a student studying Computer Science at Cornell University. I make projects in my free time, including web, app, and other software projects. I'm looking for summer work, feel free to reach out.
 
 
 <br>
