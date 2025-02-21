@@ -6,14 +6,14 @@
 
 
 <div align="center">
-I'm Skye - a student studying Computer Science at Cornell University. I make projects in my free time, including web, app, and other software projects. I'm looking for summer work, feel free to reach out.
+I'm Skye - a student studying Computer Science at Cornell University. I make projects in my free time, including ML, web, app, and other software projects. Feel free to reach out!
 
 
 <br>
 <br>
 
 
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,aws,javascript,c,docker,ocaml,googlecloud,html,css,flask,docker,git,postman,vscode,github,tensorflow,mysql&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,aws,javascript,c,docker,ocaml,googlecloud,react,html,css,flask,docker,git,postman,vscode,github,tensorflow,mysql,graphql,mongodb,maven&perline=14" />
 
 
 <br>
