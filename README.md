@@ -13,7 +13,7 @@ I'm Skye - a student studying Computer Science at Cornell University. I make pro
 <br>
 
 
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,aws,javascript,c,docker,ocaml,googlecloud,react,html,css,flask,docker,git,postman,github,tensorflow,mysql,graphql,mongodb,maven&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,aws,javascript,c,docker,ocaml,googlecloud,react,html,css,flask,git,postman,github,tensorflow,mysql,graphql,mongodb,maven&perline=14" />
 
 
 <br>
