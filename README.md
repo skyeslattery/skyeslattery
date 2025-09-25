@@ -6,7 +6,7 @@
 
 
 <div align="center">
-I'm Skye - a student studying Computer Science at Cornell University. I make projects in my free time, including ML, web, app, and other software projects. Feel free to reach out!
+I'm Skye - a student studying Computer Science at Cornell University. I make projects in my free time, including backend, ML, web, app, and other software projects. Feel free to reach out!
 
 
 <br>
